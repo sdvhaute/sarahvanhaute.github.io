@@ -430,6 +430,10 @@ img {
     overflow: hidden;
 }
 
+.home-social-link-home {
+    scale: 1.3rem;
+    margin-left: 20px;
+}
 
 
 /*==================== ABOUT ====================*/
@@ -536,7 +540,7 @@ img {
 }
 
 .skills-postgres {
-    width: 5%;
+    width: 70%;
 }
 
 .skills-r {
